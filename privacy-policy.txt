@@ -1,0 +1,7 @@
+Privacy Policy
+
+This app uses Firebase Authentication and Facebook Login to sign in users.
+
+We do not collect or store any personal data outside of login credentials provided by these services.
+
+Contact us: example@email.com
